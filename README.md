@@ -1,0 +1,1 @@
+Building a serverless nextjs store with Medusajs
